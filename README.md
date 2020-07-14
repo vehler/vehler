@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+This will eventually and hopefully have more information as i work on my personal projects and stuff.
+
 
 <!--
 **vehler/vehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
